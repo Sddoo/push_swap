@@ -1,0 +1,1 @@
+ARG="7 6 5 4 3 2 1"; ./push_swap $ARG | ./checker $ARG
